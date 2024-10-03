@@ -1,0 +1,16 @@
+.title {
+    background-color: pink;
+    font-size: 40px;
+    text-align: center;
+}
+
+.list {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    font-size: 24px;
+    color:aquamarine
+}
+
+#second {
+    background-color: bisque;
+}
