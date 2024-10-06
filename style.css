@@ -1,16 +1,45 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: wheat;
+}
+
 .title {
-    background-color: pink;
-    font-size: 40px;
+    background-color: #ec8999;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
     text-align: center;
+    margin: 20px 30px 20px 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+    border-style: dotted;
+    border-width: 20px;
+    
 }
 
 .list {
-    background-color: lightgoldenrodyellow;
-    font-family: 'Lucida Sans', Verdana, sans-serif;
+    background-color: #ec8999;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 24px;
-    color:aquamarine
+    color: black;
+    width: 300px;
+    margin-left: 20px;
+    border-style: dotted;
+    border-width: 12px;
+}
+
+#first {
+    padding: 10px;
+
 }
 
 #second {
-    background-color: bisque;
+    padding: 10px;
+}
+
+#third {
+    padding: 10px;
 }
